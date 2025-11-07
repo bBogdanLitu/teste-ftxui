@@ -1,6 +1,6 @@
 # Concluzie
 
-Pare sa mearga dupa ce mai generez un suppression pentru prima clasa, apoi pare sa mearga ok
+Pare sa mearga dupa ce mai generez un suppression pentru prima clasa, dupa pot sa mai adaug linistit
 
 ## Resurse
 
