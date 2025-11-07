@@ -63,6 +63,8 @@ add_executable(${MAIN_EXECUTABLE_NAME}
     main.cpp
         Game.cpp
         Game.h
+        scripts/niuGame.cpp
+        scripts/niuGame.h
 )
 
 # NOTE: Add all defined targets (e.g. executables, libraries, etc. )
